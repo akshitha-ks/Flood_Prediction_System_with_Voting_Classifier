@@ -1,8 +1,5 @@
 # Flood_Prediction_System_with_Voting_Classifier
 
-flood.py
-
-
 # Import necessary libraries
 
 import pandas as pd
