@@ -41,6 +41,7 @@ Accuracy of the Voting Classifier
 
 Here, flood is found based on the values of gage height, discharge, temperature and turbidity. If the predicted value is high, then alert notification is sent to the residents of that area. 
 
-![image](https://github.com/akshitha-ks/Flood_Prediction_System_with_Voting_Classifier/assets/123535064/1c7bd902-5ce3-4779-8e24-a93db07419d3)  ![image](https://github.com/akshitha-ks/Flood_Prediction_System_with_Voting_Classifier/assets/123535064/0fe2b058-33b2-4d52-8a3d-969812202c15)
+![image](https://github.com/akshitha-ks/Flood_Prediction_System_with_Voting_Classifier/assets/123535064/1c7bd902-5ce3-4779-8e24-a93db07419d3)  
+![image](https://github.com/akshitha-ks/Flood_Prediction_System_with_Voting_Classifier/assets/123535064/0fe2b058-33b2-4d52-8a3d-969812202c15)
 
 
