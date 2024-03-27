@@ -32,3 +32,10 @@ Floods are the most frequent type of natural disaster and occur when an overflo
 # System Architecture
 
 ![image](https://github.com/akshitha-ks/Flood_Prediction_System_with_Voting_Classifier/assets/123535064/15fe0647-8e38-4bc7-9bbd-ba984116bef5)
+
+# Output
+
+Accuracy of the Voting Classifier
+
+![image](https://github.com/akshitha-ks/Flood_Prediction_System_with_Voting_Classifier/assets/123535064/94b7b327-eda1-447e-bf82-c816adea13a4)
+
