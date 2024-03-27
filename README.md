@@ -44,5 +44,14 @@ Here, flood is found based on the values of gage height, discharge, temperature 
 ![image](https://github.com/akshitha-ks/Flood_Prediction_System_with_Voting_Classifier/assets/123535064/00b383d6-eef2-4936-829f-5fc314114b37)
 ![image](https://github.com/akshitha-ks/Flood_Prediction_System_with_Voting_Classifier/assets/123535064/09161d60-8a3d-412b-a0ae-7e4a2c1e9609)
 
+# Conclusion
+
+This project demonstrates the effectiveness of the voting classifier combining Random Forest and Gradient Boosting algorithms, for flood prediction. By utilizing key features, we aimed to capture the crucial hydrological dynamics associated with flood events. Through rigorous preprocessing steps, and target variable encoding, we ensured the robustness of our predictive model. The results of the voting classifier exhibit promising performance of about 98.7% in flood prediction, highlighting the potential of ensemble methods in such critical applications. This research contributes to the ongoing efforts in enhancing disaster preparedness and response, emphasizing the importance of effective communication strategies in the face of natural disasters.
+
+# References
+
+1. Namal Rathnayake, Upaka Rathnayake, Imiya Chathuranika, Tuan Linh Dang, Yukinobu Hoshino, “Projected Water Levels and identified Future Floods: A Comparative Analysis for Mahaweli River, Srilanka”, IEEE Access, 2023.
+2. Ankush Manocha, Sandeep Kumar Sood, Munish Bhatia, “Digital Twin-Assisted Fuzzy Logic-Inspired Intelligent Approach for Flood Prediction”, IEEE Sensors Journal, 2023.
+
 
 
