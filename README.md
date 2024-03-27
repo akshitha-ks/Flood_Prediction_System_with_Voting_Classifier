@@ -15,3 +15,19 @@ Floods are the most frequent type of natural disaster and occur when an overflo
 4. Aggregated Prediction: Combining classifiers enhances flood prediction accuracy and reliability.
 
 5. Disaster Preparedness: Effective predictions improve preparedness, aiding in timely response measures.
+
+# Requirements
+
+1. IDE: Pycharm
+
+2. Dataset
+
+3. Processor: Intel Core i3 or i5
+
+4. Memory: 4 GB RAM
+
+5. 32 or 64 bit computer
+
+
+# System Architecture
+
